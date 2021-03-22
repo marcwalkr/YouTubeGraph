@@ -9,7 +9,7 @@ def readme_file_contents():
 
 setup(
     name='youtubegraph',
-    version='1.0.0',
+    version='1.0.1',
     description='Analyzes mobile screenshots of the Time watched page in YouTube and estimates bar graph values',
     long_description=readme_file_contents(),
     long_description_content_type='text/x-rst',

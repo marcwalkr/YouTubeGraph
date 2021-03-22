@@ -16,7 +16,7 @@ from . import youtubegraph, helpers
 
 
 def main():
-    if len(sys.argv) < 2 or sys.argv[1] in ['h', '--help']:
+    if len(sys.argv) < 2 or sys.argv[1] in ['-h', '--help']:
         print(__doc__)
         sys.exit(1)
 
