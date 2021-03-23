@@ -5,6 +5,12 @@ YouTubeGraph
   :target: https://youtubegraph.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
 
+.. image:: https://badge.fury.io/py/youtubegraph.svg
+    :target: https://badge.fury.io/py/youtubegraph
+
+.. image:: https://badge.fury.io/gh/marcwalkr%2FYouTubeGraph.svg
+    :target: https://badge.fury.io/gh/marcwalkr%2FYouTubeGraph
+
 YouTubeGraph analyzes screenshots of the "Time watched" page in the official YouTube app and estimates the bar graph values.
 
 Source Code
